@@ -1,3 +1,5 @@
+View it live on https://frisbee8.github.io/newsapp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
