@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/newsapp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/newsapp/static/js/main.46b1c2a9.chunk.js",
-    "main.js.map": "/newsapp/static/js/main.46b1c2a9.chunk.js.map",
-    "runtime-main.js": "/newsapp/static/js/runtime-main.64f12d45.js",
-    "runtime-main.js.map": "/newsapp/static/js/runtime-main.64f12d45.js.map",
-    "static/js/2.6ae220fc.chunk.js": "/newsapp/static/js/2.6ae220fc.chunk.js",
-    "static/js/2.6ae220fc.chunk.js.map": "/newsapp/static/js/2.6ae220fc.chunk.js.map",
-    "static/js/3.bf3365e8.chunk.js": "/newsapp/static/js/3.bf3365e8.chunk.js",
-    "static/js/3.bf3365e8.chunk.js.map": "/newsapp/static/js/3.bf3365e8.chunk.js.map",
+    "main.js": "/newsapp/static/js/main.a499cc2a.chunk.js",
+    "main.js.map": "/newsapp/static/js/main.a499cc2a.chunk.js.map",
+    "runtime-main.js": "/newsapp/static/js/runtime-main.4e6c5f6f.js",
+    "runtime-main.js.map": "/newsapp/static/js/runtime-main.4e6c5f6f.js.map",
+    "static/js/2.8cadba90.chunk.js": "/newsapp/static/js/2.8cadba90.chunk.js",
+    "static/js/2.8cadba90.chunk.js.map": "/newsapp/static/js/2.8cadba90.chunk.js.map",
+    "static/js/3.c7497ba2.chunk.js": "/newsapp/static/js/3.c7497ba2.chunk.js",
+    "static/js/3.c7497ba2.chunk.js.map": "/newsapp/static/js/3.c7497ba2.chunk.js.map",
     "index.html": "/newsapp/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/newsapp/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.6ae220fc.chunk.js.LICENSE.txt": "/newsapp/static/js/2.6ae220fc.chunk.js.LICENSE.txt",
+    "static/js/2.8cadba90.chunk.js.LICENSE.txt": "/newsapp/static/js/2.8cadba90.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/newsapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64f12d45.js",
-    "static/js/2.6ae220fc.chunk.js",
+    "static/js/runtime-main.4e6c5f6f.js",
+    "static/js/2.8cadba90.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.46b1c2a9.chunk.js"
+    "static/js/main.a499cc2a.chunk.js"
   ]
 }
